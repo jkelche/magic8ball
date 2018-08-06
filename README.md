@@ -6,3 +6,11 @@ Download docker
 Try:
 
 docker run -it jkelcher/magic8ball
+
+
+Docker hub:
+https://hub.docker.com/r/jkelcher/magic8ball/
+
+
+
+
